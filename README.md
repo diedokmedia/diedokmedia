@@ -1,5 +1,14 @@
-## Hi there 👋
+## About me
+A second-year student at MEPhI specializing in Automated Control Systems. Also known as Sparta remixer, ytpmver and otomader, you can learn about it from other social networks. This account is intended for my programming projects and portfolio collection in this part.
 
+<!--
+# Stack
+![https://shields.io](https://camo.githubusercontent.com/52fef10dcc7e8ca807918c81c70e3e38c65ae18a0fc7a4e7c33a87fec19b4309/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7079)
+![(https://shields.io)](https://camo.githubusercontent.com/db287a020c9ce0d9d1f5c5a04532279bcf533e456d7c4917f4f95db8d2d214e7/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d63)
+![(https://shields.io)](https://camo.githubusercontent.com/eb9be5fe6804c8373b15f609eb229da932ab905853105d0638b23a61082b0e19/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070)
+![(https://shields.io)](https://camo.githubusercontent.com/e6e81dcd9ac390a8cbad5cdf12ac9682aae5b983abe5694ee305fc1e5d52409a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974)
+!(
+-->
 <!--
 **diedokmedia/diedokmedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
