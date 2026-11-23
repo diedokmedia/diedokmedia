@@ -14,6 +14,9 @@ A second-year student at MEPhI specializing in Automated Control Systems. Also k
   <img src="https://skillicons.dev/icons?i=c"         width="28" height="28" alt="C"         title="C">
   <img src="https://skillicons.dev/icons?i=cpp"       width="28" height="28" alt="C++"       title="C++">
   <img src="https://skillicons.dev/icons?i=cs"        width="28" height="28" alt="C#"        title="C#">
+  <img src="https://skillicons.dev/icons?i=html"      width="28" height="28" alt="HTML"      title="HTML">
+  <img src="https://skillicons.dev/icons?i=css"       width="28" height="28" alt="CSS"       title="CSS">
+  <img src="https://skillicons.dev/icons?i=js"        width="28" height="28" alt="JavaScript" title="JavaScript">
   <br>
   <!-- Инструменты и редакторы -->
   <img src="https://skillicons.dev/icons?i=git"       width="28" height="28" alt="Git"       title="Git">
